@@ -6,4 +6,4 @@ python-mimeparse==0.1.4
 django-tastypie==0.14.0
 
 # search engines
-django-haystack==2.6.1
+django-haystack==2.6.0
